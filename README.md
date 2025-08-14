@@ -2,6 +2,17 @@
 
 **EchoSense** is an intelligent, always-on brand perception radar that fuses real-time data acquisition, advanced NLP, and predictive analytics into a single adaptive platform. It continuously harvests high-velocity streams from Reddit, YouTube, and global news APIs, employs a fine-tuned DistilBERT model for nuanced sentiment detection, and transforms historical patterns into 48-hour predictive trajectories.
 
+# Product page (Demo)
+<img width="1600" height="887" alt="image" src="https://github.com/user-attachments/assets/c17b051e-457a-48fe-a195-9ee2f5e040de" />
+
+<img width="1600" height="890" alt="image" src="https://github.com/user-attachments/assets/41468065-ce30-4363-81e1-3887cb6a89b2" />
+
+<img width="1600" height="884" alt="image" src="https://github.com/user-attachments/assets/12f2eb52-f86c-43fa-ae93-35484637fc85" />
+
+<img width="1600" height="877" alt="image" src="https://github.com/user-attachments/assets/23f86f12-e1f2-401e-b0d6-c60575880951" />
+
+
+
 ## 🌟 Key Features
 
 ### 🔍 **Advanced Data Collection Engine**
